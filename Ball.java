@@ -12,7 +12,7 @@ public class Ball {
   
   // Implement the simulate() method -- write your own header, given the info below
   /**
-	 * Updates the height and velocity of the ball as a result of free fall
-	 * 
-	 * @param time the time elapsed since the last update
-	 */
+   * Updates the height and velocity of the ball as a result of free fall
+   * 
+   * @param time the time elapsed since the last update
+   */
